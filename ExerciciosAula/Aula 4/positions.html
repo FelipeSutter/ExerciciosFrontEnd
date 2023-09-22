@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/position.css" />
+
+    <title>Positions</title>
+  </head>
+
+  <!-- positions, static - n muda com as posições, mas muda com scroll | relative - pode mudar de acordo com o seu gosto | absolute
+    pega como referência o elemento pai, que no exemplo é o container
+    fixed -  não muda a posição nem se rolar com o scroll da página
+    sticky - parece um static, mas ele vira fixed quando chega no top: 0, quando ele encosta no topo da tela
+-->
+
+  <body>
+    <div class="container">
+      <h1>Aprendendo Positions</h1>
+
+      <div class="sticky"></div>
+
+      <div class="box static">
+        <h2>Position Static</h2>
+      </div>
+
+      <div class="box relative">
+        <h2>Position Relative</h2>
+        <div class="box absolute"></div>
+      </div>
+      <div class="box fixed"></div>
+    </div>
+  </body>
+</html>
