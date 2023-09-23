@@ -31,3 +31,22 @@ h1 {
     color: rgb(39, 52, 18);
   }
 }
+
+.container {
+  background-color: beige;
+}
+
+.my-grid {
+  border: 3px rgb(166, 255, 0) solid;
+  padding: 8px 16px;
+}
+
+.my-row {
+  border: 3px rgb(193, 151, 28) solid;
+  padding: 8px 16px;
+}
+
+.my-row .col {
+  border: 3px rgb(28, 193, 33) solid;
+  padding: 8px 16px;
+}

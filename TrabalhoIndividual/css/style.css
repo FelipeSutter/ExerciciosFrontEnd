@@ -5,7 +5,7 @@
 }
 
 body {
-  height: 150vh;
+  height: 120vh;
   background-color: rgb(111, 16, 199);
   background-attachment: fixed;
 }
@@ -111,12 +111,16 @@ body {
 
 img {
   height: 220px;
-  width: 180px;
+  width: 170px;
   float: left;
   border: 3px blueviolet outset;
-  margin-left: 10px;
-  margin-top: 15px;
+  margin-left: 20px;
+  margin-top: 50px;
   border-radius: 20%;
+}
+
+ul {
+  margin-left: 18px;
 }
 
 pre {
