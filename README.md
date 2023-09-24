@@ -20,3 +20,6 @@ Esta é a página de contatos.
  <li>HTML5</li>
  <li>CSS3</li>
 </ul>
+
+<h2>Autor</h2>
+![link](https://github.com/FelipeSutter)FelipeSutter
