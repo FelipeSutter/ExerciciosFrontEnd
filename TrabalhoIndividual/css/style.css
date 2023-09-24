@@ -2,6 +2,7 @@
 
 * {
   font-family: "Montserrat", sans-serif;
+  word-spacing: 5px;
 }
 
 body {
@@ -97,12 +98,13 @@ body {
 }
 
 .tituloN {
-  font-size: 36px;
-  margin-left: 200px;
+  font-size: 40px;
+  text-align: center;
 }
 
 .tituloP {
   text-decoration: underline;
+  font-size: 36px;
 }
 
 .main h2 {
@@ -110,25 +112,96 @@ body {
 }
 
 img {
-  height: 220px;
-  width: 170px;
+  height: 250px;
+  width: 200px;
   float: left;
-  border: 3px blueviolet outset;
-  margin-left: 20px;
-  margin-top: 50px;
+  border: 3px rgb(138, 43, 226) outset;
+  margin: 50px 20px 0px 20px;
   border-radius: 20%;
 }
 
 ul {
-  margin-left: 18px;
-}
-
-pre {
-  padding-top: 5px;
+  margin-left: 36px;
 }
 
 .section_container {
   width: -50%;
   padding-left: 230px;
-  text-align: left;
+  text-align: justify;
+}
+
+.font-text {
+  margin-right: 8px;
+  font-size: 30px;
+}
+
+.about {
+  padding: 8px;
+  color: #8a2be2;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  width: 100%;
+  height: 22%;
+  margin-top: 20px;
+}
+
+.github-btn {
+  background-color: rgb(0, 0, 0);
+  background-image: url("../img/github-96.png");
+  background-repeat: no-repeat;
+  width: 96px;
+  height: 96px;
+  margin: 10px 0px 0px 20px;
+  position: sticky;
+  border: none;
+  top: 0px;
+}
+
+.instagram-btn {
+  background-color: rgb(0, 0, 0);
+  background-image: url("../img/instagram-96.png");
+  background-repeat: no-repeat;
+  width: 96px;
+  height: 96px;
+  margin: 10px 0px 0px 20px;
+  position: sticky;
+  border: none;
+  top: 0px;
+}
+
+.linkedin-btn {
+  background-color: rgb(0, 0, 0);
+  background-image: url("../img/linkedin-96.png");
+  background-repeat: no-repeat;
+  width: 96px;
+  height: 96px;
+  margin: 10px 0px 0px 20px;
+  position: sticky;
+  border: none;
+  top: 0px;
+}
+
+.whatsapp-btn {
+  background-color: rgb(0, 0, 0);
+  background-image: url("../img/whatsapp-96.png");
+  background-repeat: no-repeat;
+  width: 96px;
+  height: 96px;
+  margin: 10px 0px 0px 20px;
+  position: sticky;
+  border: none;
+  top: 0px;
+}
+
+.email-btn {
+  background-color: rgb(0, 0, 0);
+  background-image: url("../img/email-96.png");
+  background-repeat: no-repeat;
+  width: 96px;
+  height: 96px;
+  margin: 10px 0px 0px 20px;
+  position: sticky;
+  border: none;
+  top: 0px;
 }
