@@ -42,7 +42,7 @@ body {
   top: 0px;
 }
 
-.btn {
+.btn-menu {
   background-color: rgb(111, 16, 199);
   background-image: url("../img/img-menu50.png");
   background-repeat: no-repeat;
@@ -204,4 +204,17 @@ ul {
   position: sticky;
   border: none;
   top: 0px;
+}
+
+.btn {
+  cursor: pointer;
+  position: relative;
+  top: 0;
+  padding: 4px;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn:hover {
+  top: -4px;
+  box-shadow: 0 4px 3px #000000;
 }
