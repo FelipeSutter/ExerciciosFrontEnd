@@ -22,4 +22,4 @@ Esta é a página de contatos.
 </ul>
 
 <h2>Autor</h2>
-![link](https://github.com/FelipeSutter)FelipeSutter
+<a href="https://github.com/FelipeSutter">Felipe Sutter's Profile
