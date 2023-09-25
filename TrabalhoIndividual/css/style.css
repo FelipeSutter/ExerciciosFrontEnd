@@ -54,10 +54,6 @@ body {
   top: 0px;
 }
 
-.dropdown-content {
-  display: none;
-}
-
 .dropdown:hover .btn-menu {
   background-color: #f9f9f9d2;
 }
