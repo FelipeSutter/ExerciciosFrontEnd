@@ -1,0 +1,13 @@
+/* o icone é representado como um texto */
+
+body {
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+.bi {
+  font-size: 100px;
+}
