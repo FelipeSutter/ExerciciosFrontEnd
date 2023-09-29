@@ -6,13 +6,15 @@ Olá, eu sou o Felipe Sutter e este é o meu primeiro projeto com HTML e CSS. No
 
 Nessa primeira página temos as principais informações do perfil.
 
-![image](https://github.com/FelipeSutter/ExerciciosFrontEnd/assets/114835043/0fe665e9-6c6b-4e74-9b05-33ee65b74fc2)
+![image](https://github.com/FelipeSutter/ExerciciosFrontEnd/assets/114835043/eff2222f-9c4e-4eb0-bb9f-d47fbdc6232e)
+
 
 <h2>Página de Contatos</h2>
 
 Esta é a página de contatos.
 
-![image](https://github.com/FelipeSutter/ExerciciosFrontEnd/assets/114835043/4a5616ff-d62d-46cd-be6f-dabfd5dcbf32)
+![image](https://github.com/FelipeSutter/ExerciciosFrontEnd/assets/114835043/e31d22eb-0ff6-4856-aad0-cebe4495cfc5)
+
 
 <h2>Técnologias Utilizadas</h2>
 
